@@ -1,0 +1,45 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+*.kdbx
+
+# Real/private exports must never be committed
+private/
+real-data/
+exports/
+work-exports/
+tenant-exports/
+bitlocker-exports/
+hardware-hashes/
+*.har
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# PowerShell
+*.ps1xml
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated local artifacts
+logs/
+tmp/
+coverage/
+htmlcov/
