@@ -1,0 +1,13 @@
+repos:
+  - repo: local
+    hooks:
+      - id: endpointops-validate-data
+        name: endpointops validate synthetic data
+        entry: python -m endpointops.cli validate-data
+        language: system
+        pass_filenames: false
+      - id: gitleaks
+        name: gitleaks
+        entry: gitleaks detect --source . --config tools/gitleaks.toml --no-banner
+        language: system
+        pass_filenames: false

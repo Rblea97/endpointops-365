@@ -1,0 +1,8 @@
+services:
+  endpointops:
+    build: .
+    image: endpointops-365:local
+    ports:
+      - "8000:8000"
+    environment:
+      ENDPOINTOPS_ENV: development

@@ -1,0 +1,8 @@
+severity:
+  - CRITICAL
+  - HIGH
+scan:
+  skip-dirs:
+    - .git
+    - .venv
+    - venv

@@ -1,0 +1,9 @@
+title = "EndpointOps 365 gitleaks config"
+
+[allowlist]
+description = "Allow synthetic placeholder GUIDs and example domains"
+regexes = [
+  '''00000000-0000-0000-0000-000000000000''',
+  '''contoso-mountain-lab\.example''',
+  '''CVE-SAMPLE-2026-[0-9]{4}'''
+]
