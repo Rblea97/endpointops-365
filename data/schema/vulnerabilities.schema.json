@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "vulnerabilities",
+  "type": "object",
+  "required": [
+    "vuln_id",
+    "cve_id",
+    "software_name",
+    "affected_version",
+    "fixed_version",
+    "cvss_base",
+    "epss_percentile",
+    "known_exploited",
+    "patch_available",
+    "published_date",
+    "patch_sla_days"
+  ],
+  "properties": {
+    "vuln_id": {
+      "type": "string"
+    },
+    "cve_id": {
+      "type": "string"
+    },
+    "software_name": {
+      "type": "string"
+    },
+    "affected_version": {
+      "type": "string"
+    },
+    "fixed_version": {
+      "type": "string"
+    },
+    "cvss_base": {
+      "type": "string"
+    },
+    "epss_percentile": {
+      "type": "string"
+    },
+    "known_exploited": {
+      "type": "string"
+    },
+    "patch_available": {
+      "type": "string"
+    },
+    "published_date": {
+      "type": "string"
+    },
+    "patch_sla_days": {
+      "type": "string"
+    }
+  }
+}

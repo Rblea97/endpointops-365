@@ -1,0 +1,16 @@
+{
+  "value": [
+    {
+      "id": "CML-G-001",
+      "displayName": "Endpoint-Lab-Users"
+    },
+    {
+      "id": "CML-G-002",
+      "displayName": "Endpoint-Lab-Pilot-Update-Ring"
+    },
+    {
+      "id": "CML-G-003",
+      "displayName": "Endpoint-Lab-Loaner-Devices"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "devices",
+  "type": "object",
+  "required": [
+    "device_id",
+    "asset_tag",
+    "serial_number",
+    "model",
+    "assigned_user",
+    "device_role",
+    "bios_mode",
+    "secure_boot",
+    "tpm_present",
+    "bitlocker_status",
+    "os_version",
+    "last_windows_update",
+    "dell_command_update_status",
+    "intune_readiness",
+    "compliance_state",
+    "location_type",
+    "lifecycle_state"
+  ],
+  "properties": {
+    "device_id": {
+      "type": "string"
+    },
+    "asset_tag": {
+      "type": "string"
+    },
+    "serial_number": {
+      "type": "string"
+    },
+    "model": {
+      "type": "string"
+    },
+    "assigned_user": {
+      "type": "string"
+    },
+    "device_role": {
+      "type": "string"
+    },
+    "bios_mode": {
+      "type": "string"
+    },
+    "secure_boot": {
+      "type": "string"
+    },
+    "tpm_present": {
+      "type": "string"
+    },
+    "bitlocker_status": {
+      "type": "string"
+    },
+    "os_version": {
+      "type": "string"
+    },
+    "last_windows_update": {
+      "type": "string"
+    },
+    "dell_command_update_status": {
+      "type": "string"
+    },
+    "intune_readiness": {
+      "type": "string"
+    },
+    "compliance_state": {
+      "type": "string"
+    },
+    "location_type": {
+      "type": "string"
+    },
+    "lifecycle_state": {
+      "type": "string"
+    }
+  }
+}

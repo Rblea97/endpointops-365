@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "users",
+  "type": "object",
+  "required": [
+    "user_id",
+    "display_name",
+    "user_principal_name",
+    "department",
+    "role",
+    "employment_type",
+    "manager",
+    "location",
+    "account_state",
+    "entra_group"
+  ],
+  "properties": {
+    "user_id": {
+      "type": "string"
+    },
+    "display_name": {
+      "type": "string"
+    },
+    "user_principal_name": {
+      "type": "string"
+    },
+    "department": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "employment_type": {
+      "type": "string"
+    },
+    "manager": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "account_state": {
+      "type": "string"
+    },
+    "entra_group": {
+      "type": "string"
+    }
+  }
+}

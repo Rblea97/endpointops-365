@@ -1,0 +1,26 @@
+device_id,asset_tag,serial_number,model,assigned_user,device_role,bios_mode,secure_boot,tpm_present,bitlocker_status,os_version,last_windows_update,dell_command_update_status,intune_readiness,compliance_state,location_type,lifecycle_state
+CML-LT-001,CML-A-1001,SYNTH-DELL-0001,Dell Latitude 5450,alex.rivera@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 24H2,2026-05-20,Current,Ready,Compliant,Remote,InService
+CML-LT-002,CML-A-1002,SYNTH-DELL-0002,Dell Precision 3581,jamie.chen@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 24H2,2026-04-18,Current,Ready,Compliant,Loaner Pool,InService
+CML-LT-003,CML-A-1003,SYNTH-DELL-0003,Dell Latitude 7430,morgan.patel@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 23H2,2026-06-08,Current,Ready,Compliant,Staging Bench,InService
+CML-LT-004,CML-A-1004,SYNTH-DELL-0004,Dell Latitude 5440,taylor.brooks@contoso-mountain-lab.example,Production,Legacy,Enabled,True,On,Windows 11 24H2,2026-05-01,Current,Blocked,NonCompliant,Office,InService
+CML-LT-005,CML-A-1005,SYNTH-DELL-0005,Dell Latitude 5450,jordan.kim@contoso-mountain-lab.example,Production,UEFI,Disabled,True,On,Windows 11 24H2,2026-06-01,Current,Blocked,NonCompliant,Remote,InService
+CML-LT-006,CML-A-1006,SYNTH-DELL-0006,Dell Precision 3581,casey.nguyen@contoso-mountain-lab.example,Production,UEFI,Enabled,False,On,Windows 11 23H2,2026-05-20,Current,Blocked,NonCompliant,Loaner Pool,InService
+CML-LT-007,CML-A-1007,SYNTH-DELL-0007,Dell Latitude 7430,riley.johnson@contoso-mountain-lab.example,Production,UEFI,Enabled,True,Suspended,Windows 11 24H2,2026-04-18,Current,Blocked,NonCompliant,Staging Bench,InService
+CML-LT-008,CML-A-1008,SYNTH-DELL-0008,Dell Latitude 5440,avery.garcia@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 24H2,2026-06-08,Outdated,Blocked,NonCompliant,Office,InService
+CML-LT-009,CML-A-1009,SYNTH-DELL-0009,Dell Latitude 5450,quinn.miller@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 23H2,2026-05-01,PendingApproved,Ready,Compliant,Remote,InService
+CML-LT-010,CML-A-1010,SYNTH-DELL-0010,Dell Precision 3581,skyler.davis@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 24H2,2026-06-01,Current,Ready,Compliant,Loaner Pool,InService
+CML-LT-011,CML-A-1011,SYNTH-DELL-0011,Dell Latitude 7430,cameron.wilson@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 24H2,2026-05-20,Current,Ready,Compliant,Staging Bench,InService
+CML-LT-012,CML-A-1012,SYNTH-DELL-0012,Dell Latitude 5440,drew.martinez@contoso-mountain-lab.example,Production,UEFI,Enabled,True,ExceptionDocumented,Windows 11 23H2,2026-04-18,Current,Ready,Compliant,Office,InService
+CML-LT-013,CML-A-1013,SYNTH-DELL-0013,Dell Latitude 5450,parker.lee@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 24H2,2026-06-08,Current,Ready,Compliant,Remote,InService
+CML-LT-014,CML-A-1014,SYNTH-DELL-0014,Dell Precision 3581,reese.anderson@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 24H2,2026-05-01,PendingApproved,Ready,Compliant,Loaner Pool,InService
+CML-LT-015,CML-A-1015,SYNTH-DELL-0015,Dell Latitude 7430,rowan.thomas@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 23H2,2026-06-01,Current,Ready,Compliant,Staging Bench,InService
+CML-LT-016,CML-A-1016,SYNTH-DELL-0016,Dell Latitude 5440,sage.moore@contoso-mountain-lab.example,Production,UEFI,Enabled,True,On,Windows 11 24H2,2026-05-20,Current,Ready,Compliant,Office,InService
+CML-LOANER-001,CML-A-1017,SYNTH-DELL-0017,Dell Latitude 5450,emerson.clark@contoso-mountain-lab.example,Loaner,UEFI,Disabled,True,On,Windows 11 24H2,2026-04-18,Current,Ready,NonCompliant,Remote,InService
+CML-LOANER-002,CML-A-1018,SYNTH-DELL-0018,Dell Precision 3581,finley.lewis@contoso-mountain-lab.example,Loaner,UEFI,Enabled,True,Suspended,Windows 11 23H2,2026-06-08,Current,Ready,NonCompliant,Loaner Pool,InService
+CML-LOANER-003,CML-A-1019,SYNTH-DELL-0019,Dell Latitude 7430,harper.walker@contoso-mountain-lab.example,Loaner,UEFI,Enabled,True,On,Windows 11 24H2,2026-05-01,Outdated,Ready,NonCompliant,Staging Bench,InService
+CML-LOANER-004,CML-A-1020,SYNTH-DELL-0020,Dell Latitude 5440,kai.young@contoso-mountain-lab.example,Loaner,UEFI,Enabled,True,On,Windows 11 24H2,2026-06-01,Current,Ready,Compliant,Office,InService
+CML-LT-021,CML-A-1021,SYNTH-DELL-0021,Dell Latitude 5450,,Staging,UEFI,Enabled,True,On,Windows 11 23H2,2026-05-20,Current,Ready,Compliant,Remote,Staging
+CML-LT-022,CML-A-1022,SYNTH-DELL-0022,Dell Precision 3581,,Staging,Legacy,Enabled,True,On,Windows 11 24H2,2026-04-18,Current,Ready,NonCompliant,Loaner Pool,Staging
+CML-LT-023,CML-A-1023,SYNTH-DELL-0023,Dell Latitude 7430,,Staging,UEFI,Enabled,True,On,Windows 11 24H2,2026-06-08,Current,Ready,Compliant,Staging Bench,Staging
+CML-LT-024,CML-A-1024,SYNTH-DELL-0024,Dell Latitude 5440,,Retired,UEFI,Enabled,True,On,Windows 11 23H2,2026-05-01,Current,Ready,Compliant,Office,Retired
+CML-LT-025,CML-A-1025,SYNTH-DELL-0025,Dell Latitude 5450,,Retired,UEFI,Enabled,True,On,Windows 11 24H2,2026-06-01,Current,Ready,Compliant,Remote,Retired

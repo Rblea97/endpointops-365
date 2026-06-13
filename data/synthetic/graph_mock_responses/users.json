@@ -1,0 +1,29 @@
+{
+  "value": [
+    {
+      "id": "CML-U-001",
+      "displayName": "Alex Rivera",
+      "userPrincipalName": "alex.rivera@contoso-mountain-lab.example"
+    },
+    {
+      "id": "CML-U-002",
+      "displayName": "Jamie Chen",
+      "userPrincipalName": "jamie.chen@contoso-mountain-lab.example"
+    },
+    {
+      "id": "CML-U-003",
+      "displayName": "Morgan Patel",
+      "userPrincipalName": "morgan.patel@contoso-mountain-lab.example"
+    },
+    {
+      "id": "CML-U-004",
+      "displayName": "Taylor Brooks",
+      "userPrincipalName": "taylor.brooks@contoso-mountain-lab.example"
+    },
+    {
+      "id": "CML-U-005",
+      "displayName": "Jordan Kim",
+      "userPrincipalName": "jordan.kim@contoso-mountain-lab.example"
+    }
+  ]
+}

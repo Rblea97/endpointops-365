@@ -1,0 +1,41 @@
+device_id,software_name,installed_version,publisher,install_date,internet_exposed,asset_criticality,compensating_control
+CML-LT-001,Edge,2.3.7,Synthetic Vendor,2026-02-10,False,High,False
+CML-LT-002,Firefox,3.6.14,Synthetic Vendor,2026-03-05,False,Critical,False
+CML-LT-003,7-Zip,4.9.1,Synthetic Vendor,2026-04-20,True,Standard,False
+CML-LT-004,Zoom,5.2.8,Synthetic Vendor,2026-01-15,False,High,False
+CML-LT-005,Teams,1.5.15,Synthetic Vendor,2026-02-10,False,Critical,False
+CML-LT-006,Dell Command Update,2.8.2,Synthetic Vendor,2026-03-05,False,Standard,False
+CML-LT-007,Visual Studio Code,3.1.9,Synthetic Vendor,2026-04-20,False,High,False
+CML-LT-008,Python,4.4.16,Synthetic Vendor,2026-01-15,False,Critical,False
+CML-LT-009,Git,5.7.3,Synthetic Vendor,2026-02-10,False,Standard,False
+CML-LT-010,Chrome,1.0.10,Synthetic Vendor,2026-03-05,False,High,True
+CML-LT-011,Edge,2.3.17,Synthetic Vendor,2026-04-20,True,Critical,False
+CML-LT-012,Firefox,3.6.4,Synthetic Vendor,2026-01-15,False,Standard,False
+CML-LT-013,7-Zip,4.9.11,Synthetic Vendor,2026-02-10,False,High,False
+CML-LT-014,Zoom,5.2.18,Synthetic Vendor,2026-03-05,False,Critical,False
+CML-LT-015,Teams,1.5.5,Synthetic Vendor,2026-04-20,False,Standard,False
+CML-LT-016,Dell Command Update,2.8.12,Synthetic Vendor,2026-01-15,False,High,False
+CML-LOANER-001,Visual Studio Code,3.1.19,Synthetic Vendor,2026-02-10,False,Critical,False
+CML-LOANER-002,Python,4.4.6,Synthetic Vendor,2026-03-05,False,Standard,False
+CML-LOANER-003,Git,5.7.13,Synthetic Vendor,2026-04-20,False,High,False
+CML-LOANER-004,Chrome,1.0.0,Synthetic Vendor,2026-01-15,False,Critical,True
+CML-LT-021,Edge,2.3.7,Synthetic Vendor,2026-02-10,False,Standard,False
+CML-LT-022,Firefox,3.6.14,Synthetic Vendor,2026-03-05,False,High,False
+CML-LT-023,7-Zip,4.9.1,Synthetic Vendor,2026-04-20,True,Critical,False
+CML-LT-024,Zoom,5.2.8,Synthetic Vendor,2026-01-15,False,Standard,False
+CML-LT-025,Teams,1.5.15,Synthetic Vendor,2026-02-10,False,High,False
+CML-LT-001,Dell Command Update,2.8.2,Synthetic Vendor,2026-03-05,False,Critical,False
+CML-LT-002,Visual Studio Code,3.1.9,Synthetic Vendor,2026-04-20,False,Standard,False
+CML-LT-003,Python,4.4.16,Synthetic Vendor,2026-01-15,False,High,False
+CML-LT-004,Git,5.7.3,Synthetic Vendor,2026-02-10,False,Critical,False
+CML-LT-005,Chrome,1.0.10,Synthetic Vendor,2026-03-05,False,Standard,True
+CML-LT-006,Edge,2.3.17,Synthetic Vendor,2026-04-20,True,High,False
+CML-LT-007,Firefox,3.6.4,Synthetic Vendor,2026-01-15,False,Critical,False
+CML-LT-008,7-Zip,4.9.11,Synthetic Vendor,2026-02-10,False,Standard,False
+CML-LT-009,Zoom,5.2.18,Synthetic Vendor,2026-03-05,False,High,False
+CML-LT-010,Teams,1.5.5,Synthetic Vendor,2026-04-20,False,Critical,False
+CML-LT-011,Dell Command Update,2.8.12,Synthetic Vendor,2026-01-15,False,Standard,False
+CML-LT-012,Visual Studio Code,3.1.19,Synthetic Vendor,2026-02-10,False,High,False
+CML-LT-013,Python,4.4.6,Synthetic Vendor,2026-03-05,False,Critical,False
+CML-LT-014,Git,5.7.13,Synthetic Vendor,2026-04-20,False,Standard,False
+CML-LT-015,Chrome,1.0.0,Synthetic Vendor,2026-01-15,False,High,False

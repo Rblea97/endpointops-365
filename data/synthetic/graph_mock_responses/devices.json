@@ -1,0 +1,29 @@
+{
+  "value": [
+    {
+      "id": "CML-LT-001",
+      "displayName": "CML-LT-001",
+      "complianceState": "Compliant"
+    },
+    {
+      "id": "CML-LT-002",
+      "displayName": "CML-LT-002",
+      "complianceState": "Compliant"
+    },
+    {
+      "id": "CML-LT-003",
+      "displayName": "CML-LT-003",
+      "complianceState": "Compliant"
+    },
+    {
+      "id": "CML-LT-004",
+      "displayName": "CML-LT-004",
+      "complianceState": "NonCompliant"
+    },
+    {
+      "id": "CML-LT-005",
+      "displayName": "CML-LT-005",
+      "complianceState": "NonCompliant"
+    }
+  ]
+}

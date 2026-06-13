@@ -1,0 +1,16 @@
+ticket_id,device_id,assigned_queue,severity,status,summary,recommended_action,created_date,sla_due_date
+CML-TCK-0001,CML-LT-003,Patch Operations,Medium,In Progress,Synthetic remediation task for CML-LT-003,Review BitLocker exception,2026-06-01,2026-06-15
+CML-TCK-0002,CML-LT-005,IAM Support,High,Blocked,Synthetic remediation task for CML-LT-005,Update vulnerable software,2026-06-01,2026-06-30
+CML-TCK-0003,CML-LT-007,Endpoint Support,Critical,Resolved,Synthetic remediation task for CML-LT-007,Validate Secure Boot,2026-06-01,2026-06-08
+CML-TCK-0004,CML-LT-009,Patch Operations,Low,Open,Synthetic remediation task for CML-LT-009,Run Windows Update,2026-06-01,2026-06-15
+CML-TCK-0005,CML-LT-011,IAM Support,Medium,In Progress,Synthetic remediation task for CML-LT-011,Review BitLocker exception,2026-06-01,2026-06-30
+CML-TCK-0006,CML-LT-013,Endpoint Support,High,Blocked,Synthetic remediation task for CML-LT-013,Update vulnerable software,2026-06-01,2026-06-08
+CML-TCK-0007,CML-LT-015,Patch Operations,Critical,Resolved,Synthetic remediation task for CML-LT-015,Validate Secure Boot,2026-06-01,2026-06-15
+CML-TCK-0008,CML-LOANER-001,IAM Support,Low,Open,Synthetic remediation task for CML-LOANER-001,Run Windows Update,2026-06-01,2026-06-30
+CML-TCK-0009,CML-LOANER-003,Endpoint Support,Medium,In Progress,Synthetic remediation task for CML-LOANER-003,Review BitLocker exception,2026-06-01,2026-06-08
+CML-TCK-0010,CML-LT-021,Patch Operations,High,Blocked,Synthetic remediation task for CML-LT-021,Update vulnerable software,2026-06-01,2026-06-15
+CML-TCK-0011,CML-LT-023,IAM Support,Critical,Resolved,Synthetic remediation task for CML-LT-023,Validate Secure Boot,2026-06-01,2026-06-30
+CML-TCK-0012,CML-LT-025,Endpoint Support,Low,Open,Synthetic remediation task for CML-LT-025,Run Windows Update,2026-06-01,2026-06-08
+CML-TCK-0013,CML-LT-002,Patch Operations,Medium,In Progress,Synthetic remediation task for CML-LT-002,Review BitLocker exception,2026-06-01,2026-06-15
+CML-TCK-0014,CML-LT-004,IAM Support,High,Blocked,Synthetic remediation task for CML-LT-004,Update vulnerable software,2026-06-01,2026-06-30
+CML-TCK-0015,CML-LT-006,Endpoint Support,Critical,Resolved,Synthetic remediation task for CML-LT-006,Validate Secure Boot,2026-06-01,2026-06-08

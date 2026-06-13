@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "software_inventory",
+  "type": "object",
+  "required": [
+    "device_id",
+    "software_name",
+    "installed_version",
+    "publisher",
+    "install_date",
+    "internet_exposed",
+    "asset_criticality",
+    "compensating_control"
+  ],
+  "properties": {
+    "device_id": {
+      "type": "string"
+    },
+    "software_name": {
+      "type": "string"
+    },
+    "installed_version": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "install_date": {
+      "type": "string"
+    },
+    "internet_exposed": {
+      "type": "string"
+    },
+    "asset_criticality": {
+      "type": "string"
+    },
+    "compensating_control": {
+      "type": "string"
+    }
+  }
+}

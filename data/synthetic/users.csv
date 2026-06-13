@@ -1,0 +1,21 @@
+user_id,display_name,user_principal_name,department,role,employment_type,manager,location,account_state,entra_group
+CML-U-001,Alex Rivera,alex.rivera@contoso-mountain-lab.example,Finance,Coordinator,Employee,,Denver Lab,Enabled,Endpoint-Lab-Pilot-Update-Ring
+CML-U-002,Jamie Chen,jamie.chen@contoso-mountain-lab.example,Operations,Manager,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Loaner-Devices
+CML-U-003,Morgan Patel,morgan.patel@contoso-mountain-lab.example,Sales,Technician,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Users
+CML-U-004,Taylor Brooks,taylor.brooks@contoso-mountain-lab.example,HR,Analyst,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Pilot-Update-Ring
+CML-U-005,Jordan Kim,jordan.kim@contoso-mountain-lab.example,IT,Coordinator,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Loaner-Devices
+CML-U-006,Casey Nguyen,casey.nguyen@contoso-mountain-lab.example,Finance,Manager,Contractor,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Users
+CML-U-007,Riley Johnson,riley.johnson@contoso-mountain-lab.example,Operations,Technician,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Pilot-Update-Ring
+CML-U-008,Avery Garcia,avery.garcia@contoso-mountain-lab.example,Sales,Analyst,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Loaner-Devices
+CML-U-009,Quinn Miller,quinn.miller@contoso-mountain-lab.example,HR,Coordinator,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Users
+CML-U-010,Skyler Davis,skyler.davis@contoso-mountain-lab.example,IT,Manager,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Pilot-Update-Ring
+CML-U-011,Cameron Wilson,cameron.wilson@contoso-mountain-lab.example,Finance,Technician,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Loaner-Devices
+CML-U-012,Drew Martinez,drew.martinez@contoso-mountain-lab.example,Operations,Analyst,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Users
+CML-U-013,Parker Lee,parker.lee@contoso-mountain-lab.example,Sales,Coordinator,Contractor,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Pilot-Update-Ring
+CML-U-014,Reese Anderson,reese.anderson@contoso-mountain-lab.example,HR,Manager,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Loaner-Devices
+CML-U-015,Rowan Thomas,rowan.thomas@contoso-mountain-lab.example,IT,Technician,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Users
+CML-U-016,Sage Moore,sage.moore@contoso-mountain-lab.example,Finance,Analyst,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Pilot-Update-Ring
+CML-U-017,Emerson Clark,emerson.clark@contoso-mountain-lab.example,Operations,Coordinator,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Loaner-Devices
+CML-U-018,Finley Lewis,finley.lewis@contoso-mountain-lab.example,Sales,Manager,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Disabled,Endpoint-Lab-Users
+CML-U-019,Harper Walker,harper.walker@contoso-mountain-lab.example,HR,Technician,Contractor,alex.rivera@contoso-mountain-lab.example,Denver Lab,Enabled,Endpoint-Lab-Pilot-Update-Ring
+CML-U-020,Kai Young,kai.young@contoso-mountain-lab.example,IT,Analyst,Employee,alex.rivera@contoso-mountain-lab.example,Denver Lab,Disabled,Endpoint-Lab-Loaner-Devices
